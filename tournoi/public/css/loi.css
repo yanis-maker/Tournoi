@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fond{
+    background: #f6f5f7;
+}
+
+.titre{
+    margin-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 8px;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 28px;
+    border-bottom: 1px solid #eceaee;
+    padding-left: 20px;
+    color:  #6a47b1;
+    font-family: 'Poppins',sans-serif;
+    text-align: center;
+}
+
+.retour ,.retour2{
+    text-align: right;
+    position: relative;
+    padding-right: 15px;
+    font-family: 'Poppins',sans-serif;
+}
+
+.paragraphe1 ,.texte1 ,.texte2 ,.texte3 ,.texte4 ,.texte5 ,.texte6{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0;
+    font-family:'Montserrat',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #575757;
+    text-align: left;
+}
+
+.article1 ,.article2 ,.article3 ,.article4 ,.article5 ,.article6{
+    color: #6a47b1;
+    font-family: 'Montserrat',sans-serif;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
